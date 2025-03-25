@@ -21,7 +21,8 @@
 
 <div style="display: inline_block" align="center">
   
-  <img align="center" alt="node" src="https://img.shields.io/badge/Nodejs-20232A?style=for-the-badge&logo=node&logoColor=61DAFB" />
+  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node&logoColor=61DAFB" />
+  <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=sql&logoColor=61DAFB" />
 
 
 </div>
