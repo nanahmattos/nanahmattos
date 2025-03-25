@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carolina+Mattos;I'm+26+years+old;I'm+front-end+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carolina+Mattos;I'm+27+years+old;I'm+front-end+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <br>
@@ -21,7 +21,7 @@
 
 <div style="display: inline_block" align="center">
   
-  <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="node" src="https://img.shields.io/badge/Nodejs-20232A?style=for-the-badge&logo=node&logoColor=61DAFB" />
 
 
 </div>
